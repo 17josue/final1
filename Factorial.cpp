@@ -8,5 +8,7 @@
 int main(){
     printf("aaaaaaaa la bestia y esa m10");
     printf("hola  a todos");
+    printf("hola por segunda vez");
+
     return 0;
 }
