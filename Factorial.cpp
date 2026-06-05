@@ -7,5 +7,6 @@
 
 int main(){
     printf("aaaaaaaa la bestia y esa m10");
+    printf("hola  a todos");
     return 0;
 }
